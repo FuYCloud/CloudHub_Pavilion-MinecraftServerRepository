@@ -1,2 +1,2 @@
-# Cirrohaven
-Cirrohaven: Infrastructure for a Technology-Focused Minecraft Server
+# CloudHub Pavilion
+CloudHub Pavilion: Infrastructure for a Technology-Focused Minecraft Server
